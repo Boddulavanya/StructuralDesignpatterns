@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppStructuralDesignpatterns\ConAppStructuralDesignpatterns\bin\Debug\ConAppStructuralDesignpatterns.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppStructuralDesignpatterns\ConAppStructuralDesignpatterns\bin\Debug\ConAppStructuralDesignpatterns.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppStructuralDesignpatterns\ConAppStructuralDesignpatterns\bin\Debug\ConAppStructuralDesignpatterns.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppStructuralDesignpatterns\ConAppStructuralDesignpatterns\obj\Debug\ConAppStructuralDesignpatterns.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppStructuralDesignpatterns\ConAppStructuralDesignpatterns\obj\Debug\ConAppStructuralDesignpatterns.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppStructuralDesignpatterns\ConAppStructuralDesignpatterns\obj\Debug\ConAppStructuralDesignpatterns.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppStructuralDesignpatterns\ConAppStructuralDesignpatterns\obj\Debug\ConAppStructuralDesignpatterns.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppStructuralDesignpatterns\ConAppStructuralDesignpatterns\obj\Debug\ConAppStructuralDesignpatterns.pdb
